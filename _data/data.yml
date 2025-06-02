@@ -150,13 +150,13 @@ projects:
       I am the core contributor of <a href="https://arxiv.org/abs/2411.00785">IGOR</a> and Villa-x, 
       and interested in the learning of LAM.
 
-  - title: Reinforcement learning for large language models
+  - title: RL for LLMs
     link: "#"
     tagline: >
       We have developed <a href="https://arxiv.org/abs/2409.06957">PF-PPO</a> to improve popular the PPO-based RLHF algorithm,
       and <a href="https://arxiv.org/abs/2502.13943">AdaptiveStep</a> to efficiently learn and use process-level reward models.
 
-  - title: Reinforcement learning for industrial applications
+  - title: RL for Industry
     link: "#"
     tagline: >
       I have studied RL's application in inventory management using <a href="https://openreview.net/pdf?id=5sixirvG0I">Whittle index</a>
