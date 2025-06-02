@@ -146,16 +146,21 @@ projects:
   assignments:
   - title: Embodied AI
     link: "#"
-    tagline: I am the core contributor of <a href="https://arxiv.org/abs/2411.00785"> IGOR </a> and Villa-x.
+    tagline: >
+      I am the core contributor of <a href="https://arxiv.org/abs/2411.00785">IGOR</a> and Villa-x, 
+      and interested in the learning of LAM.
 
   - title: Reinforcement learning for large language models
     link: "#"
-    tagline: ""
+    tagline: >
+      We have developed <a href="https://arxiv.org/abs/2409.06957">PF-PPO</a> to improve popular the PPO-based RLHF algorithm,
+      and <a href="https://arxiv.org/abs/2502.13943">AdaptiveStep</a> to efficiently learn and use process-level reward models.
 
   - title: Reinforcement learning for industrial applications
     link: "#"
-    tagline: ""
-
+    tagline: >
+      I have studied RL's application in inventory management using <a href="https://openreview.net/pdf?id=5sixirvG0I">Whittle index</a>
+      and <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03736">primal-dual approaches</a>.
 # oss:
 #   title: OSS Contributions
 #   intro: >
@@ -176,24 +181,22 @@ projects:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    See my publications at <a href="https://scholar.google.com/citations?user=q7M83KQAAAAJ&hl=en&oi=ao"> Google Scholar </a>.
+  # papers:
+  # - title: The Art of Computer Programming
+  #   link: "#"
+  #   authors: Donald E. Knuth
+  #   conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   link: "#"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  # - title: A syntax directed compiler for Algol 60
+  #   link: "#"
+  #   authors: Edgar T. Irons
+  #   conference: "Comm. ACM 4 (1961), 51–55"
 
 # recommendations:
 #   title: Recommendations
